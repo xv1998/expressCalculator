@@ -1,0 +1,23 @@
+{
+  "name": "expresscalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xv1998/expressCalculator.git"
+  },
+  "author": "xv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xv1998/expressCalculator/issues"
+  },
+  "homepage": "https://github.com/xv1998/expressCalculator#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
